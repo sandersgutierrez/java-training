@@ -1,0 +1,12 @@
+# Java Output
+output
+out
+target
+*.class
+
+# Intellij IDEA
+.idea
+*.iml
+
+# VSCode
+.vscode
